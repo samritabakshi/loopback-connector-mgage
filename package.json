@@ -1,0 +1,98 @@
+{
+  "_args": [
+    [
+      {
+        "raw": "loopback-connector-mgage@^1.0.3",
+        "scope": null,
+        "escapedName": "loopback-connector-mgage",
+        "name": "loopback-connector-mgage",
+        "rawSpec": "^1.0.3",
+        "spec": ">=1.0.3 <2.0.0",
+        "type": "range"
+      },
+      "/Users/samrita/Documents/onboarding-platform"
+    ]
+  ],
+  "_from": "loopback-connector-mgage@>=1.0.3 <2.0.0",
+  "_id": "loopback-connector-mgage@1.0.3",
+  "_inCache": true,
+  "_location": "/loopback-connector-mgage",
+  "_nodeVersion": "6.11.2",
+  "_npmOperationalInternal": {
+    "host": "s3://npm-registry-packages",
+    "tmp": "tmp/loopback-connector-mgage-1.0.3.tgz_1511543896517_0.8427283798810095"
+  },
+  "_npmUser": {
+    "name": "akshay.sharma",
+    "email": "mailto.akshaysharma@yahoo.com"
+  },
+  "_npmVersion": "3.10.10",
+  "_phantomChildren": {},
+  "_requested": {
+    "raw": "loopback-connector-mgage@^1.0.3",
+    "scope": null,
+    "escapedName": "loopback-connector-mgage",
+    "name": "loopback-connector-mgage",
+    "rawSpec": "^1.0.3",
+    "spec": ">=1.0.3 <2.0.0",
+    "type": "range"
+  },
+  "_requiredBy": [
+    "/"
+  ],
+  "_resolved": "https://registry.npmjs.org/loopback-connector-mgage/-/loopback-connector-mgage-1.0.3.tgz",
+  "_shasum": "c5cae6b67981c1326ba17cd5efd173327214b7b0",
+  "_shrinkwrap": null,
+  "_spec": "loopback-connector-mgage@^1.0.3",
+  "_where": "/Users/samrita/Documents/onboarding-platform",
+  "author": {
+    "name": "Akshay Sharma",
+    "email": "mailto.akshaysharma@yahoo.com",
+    "url": "https://www.linkedin.com/in/akshayaprakash-sharma-03393674"
+  },
+  "bugs": {
+    "url": "https://github.com/akki-ng/loopback-connector-mgage/issues"
+  },
+  "dependencies": {
+    "loopback-connector": "^4.3.0",
+    "qs": "^6.5.1",
+    "request": "^2.81.0"
+  },
+  "description": "A loopback connector to send sms using mgage",
+  "devDependencies": {},
+  "directories": {},
+  "dist": {
+    "shasum": "c5cae6b67981c1326ba17cd5efd173327214b7b0",
+    "tarball": "https://registry.npmjs.org/loopback-connector-mgage/-/loopback-connector-mgage-1.0.3.tgz"
+  },
+  "gitHead": "519e9b19b8ab106f6e9d4089789af38551d71f60",
+  "homepage": "https://github.com/akki-ng/loopback-connector-mgage#readme",
+  "keywords": [
+    "sms",
+    "mgage",
+    "connector",
+    "loopback",
+    "text",
+    "sendsms",
+    "message"
+  ],
+  "license": "ISC",
+  "main": "index.js",
+  "maintainers": [
+    {
+      "name": "akshay.sharma",
+      "email": "mailto.akshaysharma@yahoo.com"
+    }
+  ],
+  "name": "loopback-connector-mgage",
+  "optionalDependencies": {},
+  "readme": "ERROR: No README data found!",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/akki-ng/loopback-connector-mgage.git"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "version": "1.0.3"
+}
